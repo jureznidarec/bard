@@ -1,1 +1,2 @@
-let bard = 'Bard';
+let bard = 'Bard',
+	isBard = true;
