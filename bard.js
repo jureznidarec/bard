@@ -1,2 +1,2 @@
 let bard = 'Bard',
-	isBard = true;
+	isBard = false;
